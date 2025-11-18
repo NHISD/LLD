@@ -5,29 +5,34 @@
     "unit": "F",
     "now": {
       "temp": null,
-      "condition": "Partly Cloudy"
+      "condition": "Sunny"
     }
   },
   "weather": {
-    "high": 76,
-    "low": 51,
-    "summary": "Partly Cloudy"
+    "high": 77,
+    "low": 53,
+    "summary": "Sunny"
   },
   "events": [
     {
-      "title": "1st Grade Field Trip",
-      "date": "2025-11-07"
+      "title": "New Home Ag Showcase",
+      "date": "2025-11-17"
     },
     {
-      "title": "Veterans Day Program",
-      "date": "2025-11-11"
+      "title": "JH OAP Program",
+      "date": "2025-11-18"
     }
   ],
   "scores": [
     {
-      "sport": "JV Football",
+      "sport": "Varsity Football",
       "opponent": "Olton",
-      "result": "49-6"
+      "result": "57-18"
+    },
+    {
+      "sport": "Lady Leps Basketball",
+      "opponent": "Jayton",
+      "result": "53-26"
     }
   ]
 }
