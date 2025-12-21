@@ -2,39 +2,39 @@
   "spotlights": [
     {
       "id": "s001",
-      "name": "Tracy Weeks",
-      "role": "Secondary School Secretary",
-      "blurb": "Tracy Weeks, a multitasker, talks about her New Home journey.",
-      "imageUrl": "media/Tracy Weeks(1).jpg",
-      "imageAlt": "Picture of Tracy Weeks",
-      "link": "LLD-Article-Page.html?id=20251106-tracy-weeks-spotlight"
-    },
-    {
-      "id": "s002",
-      "name": "Hadleigh Scott",
-      "role": "Lila the Leopard",
-      "blurb": "Hadleigh Scott is a Senior at New Home. She is the current mascot, and is involved with numerous extracurriculars.",
-      "imageUrl": "media/hadleighscottportrait.jpg",
-      "imageAlt": "Picture of Hadleigh Scott as Lila the Leopard",
-      "link": "LLD-Article-Page.html?id=20251107-hadleigh-scott-spotlight"
-    },
-    {
-      "id": "s003",
-      "name": "Kacyn Mcdonald",
+      "name": "Keaton Bullard",
       "role": "Student",
-      "blurb": "Kacyn Mcdonald is a student at New Home ISD.",
-      "imageUrl": "media/KacynMcdonald.png",
-      "imageAlt": "Kacyn Mcdonald",
-      "link": "LLD-Article-Page.html?id=20251107-kacyn-mcdonald-spotlight"
+      "blurb": "Keaton Bullard is a funny and outgoing senior at New Home",
+      "imageUrl": "media\\KeatonBullard.jpg",
+      "imageAlt": "Picture of Keaton Bullard",
+      "link": "LLD-Article-Page.html?id=20251219-keaton-bullard-spotlight"
     },
     {
-      "id": "s004",
-      "name": "Mrs. Horn",
-      "role": "Secondary English Teacher • Theatre Director",
-      "blurb": "Amazing English teacher and theatre director, she always has a smile on her face.",
-      "imageUrl": "media/KatrinaHorn.jpg",
-      "imageAlt": "Portrait of Mrs. Horn",
-      "link": "LLD-Article-Page.html?id=20251106-mrs-horn-spotlight"
+      "id": "1766170342410",
+      "name": "Natalia Reyes",
+      "role": "Student",
+      "blurb": "Natalia Reyes is a student at New Home, and she participates in many school activities. ",
+      "imageUrl": "media\\Natalia_Reyes.jpg",
+      "imageAlt": "Picture of Natalia Reyes",
+      "link": "LLD-Article-Page.html?id=20251219-natalia-reyes-spotlight"
+    },
+    {
+      "id": "1766344143074",
+      "name": "Coach Bell",
+      "role": "Softball Coach",
+      "blurb": "Coach Bell is a popular coach and figure on the campus.",
+      "imageUrl": "media\\Coach_Bell.jpg",
+      "imageAlt": "",
+      "link": "LLD-Article-Page.html?id=20251219-coach-bell-spotlight"
+    },
+    {
+      "id": "1766344199745",
+      "name": "Mrs. Chapman",
+      "role": "CTE Teacher",
+      "blurb": "Mrs.Chapman is a CTE teacher at New Home. She enjoys building relationships with her students and co-workers.\n",
+      "imageUrl": "media/Image0.jpeg",
+      "imageAlt": "Picture of Mrs.Chapman",
+      "link": "LLD-Article-Page.html?id=20251221-mrs-chapman-spotlight"
     }
   ],
   "last_updated": "2025-09-15T00:00:00Z",

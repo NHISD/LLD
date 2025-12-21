@@ -1,0 +1,10 @@
+{
+  "files": [
+    "ArticleCatalog.json",
+    "articles/20251221-mrs-chapman-spotlight.json",
+    "media/image0.jpeg"
+  ],
+  "message": "chore: finish & merge article (2025-12-21T19:13:53.036Z)",
+  "branch": "main",
+  "force": true
+}

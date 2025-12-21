@@ -14,25 +14,9 @@
     "summary": "Sunny"
   },
   "events": [
-    {
-      "title": "New Home Ag Showcase",
-      "date": "2025-11-17"
-    },
-    {
-      "title": "JH OAP Program",
-      "date": "2025-11-18"
-    }
+  
   ],
   "scores": [
-    {
-      "sport": "Varsity Football",
-      "opponent": "Olton",
-      "result": "57-18"
-    },
-    {
-      "sport": "Lady Leps Basketball",
-      "opponent": "Jayton",
-      "result": "53-26"
-    }
+
   ]
 }

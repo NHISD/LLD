@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-07T04:05:26.137Z",
-  "version": "1.24",
+  "last_updated": "2025-12-21T19:13:53.036Z",
+  "version": "1.32",
   "articles": [
     {
       "id": "20251002-coach-ward-talks-goals-and-challenges-for-this-season",
@@ -110,7 +110,7 @@
       ],
       "category": "Sports",
       "time_posted": "2025-11-06T14:40:35.687Z",
-      "homepage_position": "004",
+      "homepage_position": "",
       "imageUrl": "media/Football Team.png",
       "imageAlt": "",
       "author": "Khloe Pearson"
@@ -135,7 +135,7 @@
       ],
       "category": "News",
       "time_posted": "2025-11-06T19:36:54.339Z",
-      "homepage_position": "001",
+      "homepage_position": "",
       "imageUrl": "media/NHTheater.jpg",
       "imageAlt": "",
       "author": "Lilly Lewis"
@@ -149,7 +149,7 @@
       ],
       "category": "Feature",
       "time_posted": "2025-11-06T19:42:36.344Z",
-      "homepage_position": "002",
+      "homepage_position": "",
       "imageUrl": "",
       "imageAlt": "",
       "author": "Bella Herrera"
@@ -162,7 +162,7 @@
       ],
       "category": "Feature",
       "time_posted": "2025-11-06T19:46:51.616Z",
-      "homepage_position": "003",
+      "homepage_position": "",
       "imageUrl": "",
       "imageAlt": "",
       "author": "Breklyn Rodriguez"
@@ -188,6 +188,97 @@
       "imageUrl": "media/HadleighScott.JPG",
       "imageAlt": "Portrait of Lila the Leopard",
       "author": "Breklyn Rodriguez"
+    },
+    {
+      "id": "20251219-state-ffa",
+      "title": "State FFA",
+      "tags": [
+        "FFA",
+        "LDE"
+      ],
+      "category": "News",
+      "time_posted": "2025-12-19T18:40:40.403Z",
+      "homepage_position": "001",
+      "imageUrl": "media/TX_FFA.jpg",
+      "imageAlt": ""
+    },
+    {
+      "id": "20251219-football-wrap-up",
+      "title": "Football Wrap Up",
+      "tags": [
+        "Football"
+      ],
+      "category": "Feature",
+      "time_posted": "2025-12-19T18:44:02.786Z",
+      "homepage_position": "004",
+      "imageUrl": "media/Football Wrap up 1.JPG",
+      "imageAlt": ""
+    },
+    {
+      "id": "20251219-keaton-bullard-spotlight",
+      "title": "Keaton Bullard Spotlight",
+      "tags": [],
+      "category": "Feature",
+      "time_posted": "2025-12-19T18:46:39.028Z",
+      "homepage_position": "",
+      "imageUrl": "media/KeatonBullard.jpg",
+      "imageAlt": ""
+    },
+    {
+      "id": "20251219-natalia-reyes-spotlight",
+      "title": "Natalia Reyes Spotlight",
+      "tags": [],
+      "category": "Feature",
+      "time_posted": "2025-12-19T18:54:52.110Z",
+      "homepage_position": "",
+      "imageUrl": "media/NATALIA_REYES.jpg",
+      "imageAlt": ""
+    },
+    {
+      "id": "20251219-coach-bell-spotlight",
+      "title": "Coach Bell Spotlight",
+      "tags": [],
+      "category": "Feature",
+      "time_posted": "2025-12-19T19:02:01.234Z",
+      "homepage_position": "",
+      "imageUrl": "media/Coach_Bell.jpg",
+      "imageAlt": ""
+    },
+    {
+      "id": "20251221-elementary-scholars-shine-at-uil-academic-meet",
+      "title": "Elementary Scholars Shine at UIL Academic Meet",
+      "tags": [
+        "UIL",
+        "Elementary"
+      ],
+      "category": "Brief",
+      "time_posted": "2025-12-21T19:02:16.015Z",
+      "homepage_position": "3",
+      "imageUrl": "media/ELEMENTARY_UIL.jpg",
+      "imageAlt": ""
+    },
+    {
+      "id": "20251221-uil-success-showcases-middle-school-talent",
+      "title": "UIL Success Showcases Middle School Talent ",
+      "tags": [
+        "UIL",
+        "JH"
+      ],
+      "category": "Feature",
+      "time_posted": "2025-12-21T19:03:52.039Z",
+      "homepage_position": "2",
+      "imageUrl": "media/JH_UIL.jpg",
+      "imageAlt": ""
+    },
+    {
+      "id": "20251221-mrs-chapman-spotlight",
+      "title": "Mrs. Chapman Spotlight",
+      "tags": [],
+      "category": "Feature",
+      "time_posted": "2025-12-21T19:13:53.036Z",
+      "homepage_position": "",
+      "imageUrl": "media/image0.jpeg",
+      "imageAlt": ""
     }
   ]
 }
